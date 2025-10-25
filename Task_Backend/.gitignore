@@ -1,0 +1,72 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+.out/
+.next/
+.cache/
+.vite/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Dependency directories
+jspm_packages/
+
+# Coverage directory
+coverage/
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Optional lock files
+
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Output from testing
+test-results/
+*.lcov
+
+# Next.js/Remix static export
+out/
+
+# Storybook build
+storybook-static/
+
+# Misc
+*.tgz
+*.zip
+
+# OS generated files
+
+
+
+
+# Optional: ignore local images/uploads (if not stored in repo)
+
