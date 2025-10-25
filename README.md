@@ -9,7 +9,7 @@ This project includes secure authentication and admin-based access to task delet
 
 🔗 Frontend: *Coming Soon*  
 🔗 Backend API: *Coming Soon*  
-🔗 GitHub Repository: https://github.com/Riteshkaloni/
+🔗 GitHub Repository: https://github.com/Riteshkaloni/New_task_Managment.git
 
 ---
 
